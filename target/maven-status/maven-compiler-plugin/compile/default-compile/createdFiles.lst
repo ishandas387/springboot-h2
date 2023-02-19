@@ -1,0 +1,7 @@
+com/id/proj/controller/StudentController.class
+com/id/proj/configuration/LiquibaseConfig.class
+com/id/proj/SpringH2LiquibaseApplication.class
+com/id/proj/repository/StudentRepository.class
+com/id/proj/service/StudentService.class
+com/id/proj/model/dto/StudentDTO.class
+com/id/proj/model/Student.class
